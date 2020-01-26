@@ -23,6 +23,7 @@ Additionally, the [Jupyter Notebooks (`ipynb` files)](https://jupyterlab.readthe
 Instructors
 -----------
 
-* Qingyu Chen (lead instructor) - qingyu dot chen at nih dot com
-* Yifan Peng (co-instructor) - yifan dot peng at nih dot com
-* Martin Skarzynski (co-instructor) - marskar at gmail dot com
+* Dr Qingyu Chen (lead instructor) - qingyu dot chen at nih dot com
+* Dr Yifan Peng (co-instructor) - yifan dot peng at nih dot com
+* Dr Martin Skarzynski (co-instructor) - marskar at gmail dot com
+
