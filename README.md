@@ -1,7 +1,5 @@
-Syllabus
-========
-
-**Introduction to Text Mining - BIOF395 - FAES**
+# Syllabus
+## BIOF395 Introduction to Text Mining
 
 **Spring 2020**
 
