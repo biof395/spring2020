@@ -41,13 +41,13 @@ The class is oriented towards hands-on experience with Python, popular text mini
 
 Learning Objectives
 -------------------
-
 By the end of this course you should be able to:
 1. Develop Python functions for text processing
 2. Understand fundamental building blocks of text mining
 3. Understand fundamental building blocks of machine learning regarding with text mining applications 
 4. Build fundamental text mining applications (hands-on experience with Python, NLTK, spaCy and scikit-learn)
 
-
-
+Prerequisites
+-------------
+Prior exposure to programming and Python is highly recommended, but not required to attend this class. We will provide a crash tutorial on Python for the first three weeks.
 
