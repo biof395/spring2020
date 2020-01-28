@@ -73,16 +73,25 @@ Schedule
 | #  | Date       | Topic                                        | Lead              |
 |----|------------|----------------------------------------------|-------------------|
 | 1  | 2020-02-06 | Course Intro and Python crash course part I  | All Instructors   |
-| 2  | 2020-02-13 | Python crash course part II                  | Martin            |
-| 3  | 2020-02-20 | Python revision, text processing pipeline, and project intro | Qingyu            |
+| 2  | 2020-02-13 | Python crash course part II                  | Martin & Qingyu   |
+| 3  | 2020-02-20 | Python revision, text processing pipeline, and project intro | Qingyu|
 | 4  | 2020-02-27 | Regular expressions, parsing and pos tagging | Yifan             |
 | 5  | 2020-03-05 | Machine learning on text part I              | Qingyu            |
-| 6  | 2020-03-12 | Machine learning on text part II             | Qingyu            |
+| 6  | 2020-03-12 | Machine learning on text part II             | Yifan             |
 | 7  | 2020-03-19 | Text mining applications: NER and relation extraction | Yifan    |
-| 8  | 2020-03-26 | Text mining applications: sentence retrieval and document classification | Qingyu|
+| 8  | 2020-03-26 | Text mining applications: sentence similarity and document classification | Qingyu|
 | 9  | 2020-04-02 | Mid-term revision and early project feedback | Yifan & Qingyu    |
 | 10 | 2020-04-09 | Deep learning on text part I                 | Qingyu            |
 | 11 | 2020-04-16 | Deep learning on text part II                | Yifan             |
-| 12 | 2020-04-23 | Text mining applications: recent adavances and project feedback  | Yifan & Qingyu|
-| 13 | 2020-04-30 | Requested Topics/Review/Final Project Clinic | Yifan & Qingyu    |
+| 12 | 2020-04-23 | Text mining applications: other applications and project feedback  | Yifan & Qingyu|
+| 13 | 2020-04-30 | Requested Topics/review/final project feedback | Yifan & Qingyu    |
 | 14 | 2020-05-07 | Student Presentations                        |                   |
+
+
+Recommended Books
+-----------------
+**There is no required textbook for this course.**
+
+We do, however, highly recommend [Natural Language Processing with Python](https://www.nltk.org/book/) and [Applied Text Analysis with Python](http://shop.oreilly.com/product/0636920052555.do) for understanding text mining in more depth. If you are also interested in exploring Python in more detail, we recommend [Python for Data Science](https://github.com/jakevdp/PythonDataScienceHandbook) and its companion text [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython) by Jake Vanderplas.
+
+
