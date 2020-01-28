@@ -49,5 +49,40 @@ By the end of this course you should be able to:
 
 Prerequisites
 -------------
+
 Prior exposure to programming and Python is highly recommended, but not required to attend this class. We will provide a crash tutorial on Python for the first three weeks.
 
+Logistics
+---------
+
+This is a one-semester course starting on the 6th of February 2020 and finishing on 7th of May 2020.
+
+**Class Location: B1C206, Building 10, NIH Bethesda campus**
+
+Attendance in class is strongly recommended; however, we realize other commitments may occasionally prevent attendance. If you miss a class, please review the materials available at the course and keep up with activities and homework.
+
+Important FAES Fall 2020 semester dates:
+* January 31: online registration deadline 
+* February 14: late registration deadline (10 dollar late fee per course applies)
+* February 6: classes begin
+* May 7: classes end
+
+Schedule
+--------
+
+| #  | Date       | Topic                                        | Lead              |
+|----|------------|----------------------------------------------|-------------------|
+| 1  | 2020-02-06 | Course Intro and Python crash course part I  | All Instructors   |
+| 2  | 2020-02-13 | Python crash course part II                  | Martin            |
+| 3  | 2020-02-20 | Python revision, text processing pipeline, and project intro | Qingyu            |
+| 4  | 2020-02-27 | Regular expressions, parsing and pos tagging | Yifan             |
+| 5  | 2020-03-05 | Machine learning on text part I              | Qingyu            |
+| 6  | 2020-03-12 | Machine learning on text part II             | Qingyu            |
+| 7  | 2020-03-19 | Text mining applications: NER and relation extraction | Yifan    |
+| 8  | 2020-03-26 | Text mining applications: sentence retrieval and document classification | Qingyu|
+| 9  | 2020-04-02 | Mid-term revision and early project feedback | Yifan & Qingyu    |
+| 10 | 2020-04-09 | Deep learning on text part I                 | Qingyu            |
+| 11 | 2020-04-16 | Deep learning on text part II                | Yifan             |
+| 12 | 2020-04-23 | Text mining applications: recent adavances and project feedback  | Yifan & Qingyu|
+| 13 | 2020-04-30 | Requested Topics/Review/Final Project Clinic | Yifan & Qingyu    |
+| 14 | 2020-05-07 | Student Presentations                        |                   |
