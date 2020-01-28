@@ -94,4 +94,13 @@ Recommended Books
 
 We do, however, highly recommend [Natural Language Processing with Python](https://www.nltk.org/book/) and [Applied Text Analysis with Python](http://shop.oreilly.com/product/0636920052555.do) for understanding text mining in more depth. If you are also interested in exploring Python in more detail, we recommend [Python for Data Science](https://github.com/jakevdp/PythonDataScienceHandbook) and its companion text [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython) by Jake Vanderplas.
 
+Communication
+------------
 
+**Before contacting us**, please check to see if your question has already been answered elsewhere, e.g. [StackOverflow](https://stackoverflow.com/).
+
+If you cannot find the answer, please make sure to ask your question thoughtfully (https://stackoverflow.com/help/how-to-ask) and provide everything needed to answer e.g. code, error message, dataset, etc.
+
+In general, please use the [course Slack workspace](https://biof395.slack.com) to communicate with classmates and instructors. If you have a course-relevant question or something to share, [Slack](https://biof395.slack.com) is simply better than email. In case of personal/private question/concerns, please use [Slack](https://biof309.slack.com) direct message (DM).
+
+In case of an emergency, please send a DM on [Slack](https://biof309.slack.com) *and* an email.
