@@ -37,6 +37,17 @@ information from free-text records.
 
 This class aims at introducing fundamental applications in text mining such as
 named entity recognition (NER), relation extraction, passage retrieval and document classification.
-The class is oriented towards hands-on experience with Python and popular text mining packages such as NLTK and spaCy. 
+The class is oriented towards hands-on experience with Python, popular text mining packages such as NLTK and spaCy, and popular machine learning packages suc as scikit-learn.
+
+Learning Objectives
+-------------------
+
+By the end of this course you should be able to:
+1. Develop Python functions for text processing
+2. Understand fundamental building blocks of text mining
+3. Understand fundamental building blocks of machine learning regarding with text mining applications 
+4. Build fundamental text mining applications (hands-on experience with Python, NLTK, spaCy and scikit-learn)
+
+
 
 
