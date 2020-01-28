@@ -87,6 +87,15 @@ Schedule
 | 13 | 2020-04-30 | Requested Topics/review/final project feedback | Yifan & Qingyu    |
 | 14 | 2020-05-07 | Student Presentations                        |                   |
 
+Required Materials
+------------------
+
+**Each student is encouraged to bring their own laptop to each class.**
+
+*Programing without a computer would be an exceptional feat.*
+
+For installing Python or related queries, please refer to [BIOF309 Introduction to Python Programming](https://github.com/marskar/biof309_fall2018/). 
+
 
 Recommended Books
 -----------------
