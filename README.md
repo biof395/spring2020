@@ -7,9 +7,7 @@
 
 Important notes
 ---------------
-This is a tentative outline for the course and may be updated based on instructor
-discretion. Changes may result due to students’ progress in the course or changes in instructional
-priorities
+This is a tentative outline for the course and may be updated throughout the semester.
 
 
 <!---
