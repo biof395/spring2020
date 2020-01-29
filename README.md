@@ -7,7 +7,7 @@
 
 Important notes
 ---------------
-This is a tentative outline for the course and may be updated throughout the semester.
+This is a tentative outline for the course and may be updated throughout the quarter.
 
 
 <!---
