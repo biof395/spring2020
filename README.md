@@ -5,9 +5,13 @@
 
 **Time: Thursday 5:30PM - 7:30PM**
 
-*This document is subject to revision!*
+Important notes
+---------------
+This is a tentative outline for the course and may be updated based on instructor
+discretion. Changes may result due to students’ progress in the course or changes in instructional
+priorities
 
-Changes are tracked using the [git version control system](https://git-scm.com/).
+
 <!---
 To interact with the materials in the repo using [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) (via [Binder](https://mybinder.org/)), please click the button below.
 
@@ -24,6 +28,10 @@ Instructors
 * Dr Qingyu Chen (lead instructor) - qingyu dot chen at nih dot com
 * Dr Yifan Peng (co-instructor) - yifan dot peng at nih dot com
 * Dr Martin Skarzynski (co-instructor) - marskar at gmail dot com
+
+
+
+
 
 Course description
 ------------------
