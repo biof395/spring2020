@@ -23,8 +23,8 @@ Additionally, the [Jupyter Notebooks (`ipynb` files)](https://jupyterlab.readthe
 Instructors
 -----------
 
-* Dr Qingyu Chen (lead instructor) - qingyu dot chen at nih dot com
-* Dr Yifan Peng (co-instructor) - yifan dot peng at nih dot com
+* Dr Qingyu Chen, NCBI/NLM/NIH (lead instructor) - qingyu dot chen at nih dot org
+* Dr Yifan Peng, NCBI/NLM/NIH (co-instructor) - yifan dot peng at nih dot org
 * Dr Martin Skarzynski (co-instructor) - marskar at gmail dot com
 
 
@@ -43,25 +43,27 @@ information from free-text records.
 
 This class aims at introducing fundamental applications in text mining such as
 named entity recognition (NER), relation extraction, passage retrieval and document classification.
-The class is oriented towards hands-on experience with Python, popular text mining packages such as NLTK and spaCy, and popular machine learning packages suc as scikit-learn.
+The class is oriented towards hands-on experience with Python, popular text mining packages such as NLTK and spaCy, and popular machine learning packages such as [scikit-learn](scikit-learn).
 
 Learning Objectives
 -------------------
 By the end of this course you should be able to:
-1. Develop Python functions for text processing
-2. Understand fundamental building blocks of text mining
-3. Understand fundamental building blocks of machine learning regarding with text mining applications 
+
+1. Understand fundamental building blocks of text mining
+2. Understand fundamental building blocks of machine learning regarding text mining applications 
+3. Develop Python functions for text processing
 4. Build fundamental text mining applications (hands-on experience with Python, NLTK, spaCy and scikit-learn)
+
 
 Prerequisites
 -------------
 
-Prior exposure to programming and Python is highly recommended, but not required to attend this class. We will provide a crash tutorial on Python for the first three weeks.
+Prior exposure to programming and Python is highly recommended, but not required to attend this class. We will provide a crash tutorial on Python in the first three weeks.
 
 Logistics
 ---------
 
-This is a one-semester course starting on the 6th of February 2020 and finishing on 7th of May 2020.
+This is a one-semester course starting on February 6th, 2020 and finishing on May 7th, 2020.
 
 **Class Location: B1C206, Building 10, NIH Bethesda campus**
 
@@ -69,7 +71,7 @@ Attendance in class is strongly recommended; however, we realize other commitmen
 
 Important FAES Fall 2020 semester dates:
 * January 31: online registration deadline 
-* February 14: late registration deadline (10 dollar late fee per course applies)
+* February 14: late registration deadline (10 dollars late fee per course applies)
 * February 6: classes begin
 * May 7: classes end
 
@@ -105,13 +107,13 @@ This will take about 35 hours in total to complete. Note that you could also do 
 
 2. Text mining on real-world datasets
 
-    By the end of the semester, you must also develop a text mining application on real-world datasets. You will (1) submit the codes and models to a github repository, (2) write up a report to describe the method, and (3) present in the final week. More details will be released in Week 3. 
+    By the end of the semester, you must also develop a text mining application on real-world datasets. You will (1) submit the codes and models to a GitHub repository, (2) write up a report to describe the method, and (3) present in the final week. More details will be released in Week 3. 
 
 
 Required Materials
 ------------------
 
-**Each student is encouraged to bring their own laptop to each class.**
+**Each student is encouraged to bring their laptop to each class.**
 
 *Programing without a computer would be an exceptional feat.*
 
@@ -122,16 +124,16 @@ Recommended Books
 -----------------
 **There is no required textbook for this course.**
 
-We do, however, highly recommend [Natural Language Processing with Python](https://www.nltk.org/book/) and [Applied Text Analysis with Python](http://shop.oreilly.com/product/0636920052555.do) for understanding text mining in more depth. If you are also interested in exploring Python in more detail, we recommend [Python for Data Science](https://github.com/jakevdp/PythonDataScienceHandbook) and its companion text [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython) by Jake Vanderplas.
+We do, however, highly recommend [Natural Language Processing with Python](https://www.nltk.org/book/) and [Applied Text Analysis with Python](http://shop.oreilly.com/product/0636920052555.do) for understanding text mining in more depth. If you are also interested in exploring Python in more details, we recommend [Python for Data Science](https://github.com/jakevdp/PythonDataScienceHandbook) and its companion text [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython) by Jake Vanderplas.
 
 Communication
 ------------
 
 **Before contacting us**, please check to see if your question has already been answered elsewhere, e.g. [StackOverflow](https://stackoverflow.com/).
 
-If you cannot find the answer, please make sure to ask your question thoughtfully (https://stackoverflow.com/help/how-to-ask) and provide everything needed to answer e.g. code, error message, dataset, etc.
+If you cannot find the answer, please make sure to ask your questions thoughtfully (https://stackoverflow.com/help/how-to-ask) and provide everything needed to answer e.g. code, error message, dataset, etc.
 
-In general, please use the [course Slack workspace](https://biof395.slack.com) to communicate with classmates and instructors. If you have a course-relevant question or something to share, [Slack](https://biof395.slack.com) is simply better than email. In case of personal/private question/concerns, please use [Slack](https://biof395.slack.com) direct message (DM).
+In general, please use the [course Slack workspace](https://biof395.slack.com) to communicate with classmates and instructors. If you have a course-relevant question or something to share, [Slack](https://biof395.slack.com) is simply better than email. In case of questions or concerns, please use [Slack](https://biof395.slack.com) direct message (DM).
 
 In case of an emergency, please send a DM on [Slack](https://biof395.slack.com) *and* an email.
 
