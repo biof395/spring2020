@@ -80,12 +80,25 @@ Schedule
 | 6  | 2020-03-12 | Machine learning on text part II             | Yifan             |
 | 7  | 2020-03-19 | Text mining applications: NER and relation extraction | Yifan    |
 | 8  | 2020-03-26 | Text mining applications: sentence similarity and document classification | Qingyu|
-| 9  | 2020-04-02 | Mid-term revision and early project feedback | Yifan & Qingyu    |
+| 9  | 2020-04-02 | Mid-term revision and early project feedback | Qingyu & Yifan    |
 | 10 | 2020-04-09 | Deep learning on text part I                 | Qingyu            |
 | 11 | 2020-04-16 | Deep learning on text part II                | Yifan             |
-| 12 | 2020-04-23 | Text mining applications: other applications and project feedback  | Yifan & Qingyu|
-| 13 | 2020-04-30 | Requested Topics/review/final project feedback | Yifan & Qingyu    |
+| 12 | 2020-04-23 | Text mining applications: other applications and project feedback  | Qingyu & Yifan|
+| 13 | 2020-04-30 | Requested Topics/review/final project feedback | Qingyu & Yifan    |
 | 14 | 2020-05-07 | Student Presentations                        |                   |
+
+
+Assessment
+--------
+The assessment focuses on (1) practicing python and machine learning skills and (2) hands-on experience of text mining on real-world datasets. Details are as follows.
+
+1. Python and machine learning skills
+By the end of the semester, you must complete [Python Programming Skill Track](https://www.datacamp.com/tracks/python-programming) and [Machine Learning Fundamentals with Python Skill Track](https://www.datacamp.com/tracks/machine-learning-fundamentals-with-python). 
+This will take about 35 hours in total to complete. Note that you could also do other tracks if you are interested, but they are optional. **Please start the tracks as soon as possible and work towards the certificate(s) throughout the semester. This may require substantial work! Do not wait until the end of the semester!**
+
+2. Text mining on real-world datasets
+By the end of the semester, you must also develop a text mining application on real-world datasets. You will (1) submit the codes and models to a github repository, (2) write up a report to describe the method, and (3) present in the final week. More details will be released in Week 3. 
+
 
 Required Materials
 ------------------
@@ -114,16 +127,6 @@ In general, please use the [course Slack workspace](https://biof395.slack.com) t
 
 In case of an emergency, please send a DM on [Slack](https://biof395.slack.com) *and* an email.
 
-Assessment
---------
-The assessment focuses on (1) practicing python and machine learning skills and (2) hands-on experience of text mining on real-world datasets. Details are as follows.
-
-1. Python and machine learning skills
-By the end of the semester, you must complete [Python Programming Skill Track](https://www.datacamp.com/tracks/python-programming) and [Machine Learning Fundamentals with Python Skill Track](https://www.datacamp.com/tracks/machine-learning-fundamentals-with-python). 
-This will take about 35 hours in total to complete. Note that you could also do other tracks if you are interested, but they are optional. **Please start the tracks as soon as possible and work towards the certificate(s) throughout the semester. This may require substantial work! Do not wait until the end of the semester!**
-
-2. Text mining on real-world datasets
-By the end of the semester, you must also develop a text mining application on real-world datasets. You will (1) submit the codes and models to a github repository, (2) write up a report to describe the method, and (3) present in the final week. More details will be released in Week 3. 
 
 
 Optional Materials
