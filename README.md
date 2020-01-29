@@ -94,7 +94,7 @@ Required Materials
 
 *Programing without a computer would be an exceptional feat.*
 
-For installing Python or related queries, please refer to [BIOF309 Introduction to Python Programming](https://github.com/marskar/biof309_fall2018/). 
+For installing Python or Python related queries, please refer to [BIOF309 Introduction to Python Programming](https://github.com/marskar/biof309_fall2018/). 
 
 
 Recommended Books
