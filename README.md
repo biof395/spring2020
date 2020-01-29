@@ -3,7 +3,7 @@
 
 **Spring 2020**
 
-**Time: Thursday 5:30PM - 7:30PM**
+**Time: Thursday 6:30PM - 8:30PM**
 
 Important notes
 ---------------
