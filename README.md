@@ -146,4 +146,4 @@ Optional Materials
 
 2. [GitHub student pack](https://education.github.com/pack)
 
-    [GitHub](https://github.com) is offering some free awesome resources to students, that might be of interest to you, depending on your background:
+    [GitHub](https://github.com) is offering some free awesome resources to students, that might be of interest to you, depending on your background.
