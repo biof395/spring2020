@@ -23,13 +23,8 @@ Additionally, the [Jupyter Notebooks (`ipynb` files)](https://jupyterlab.readthe
 Instructors
 -----------
 
-<<<<<<< HEAD
-* Dr Qingyu Chen (lead instructor) - qingyu dot chen at nih dot org
-* Dr Yifan Peng (co-instructor) - yifan dot peng at nih dot org
-=======
 * Dr Qingyu Chen, NCBI/NLM/NIH (lead instructor) - qingyu dot chen at nih dot org
 * Dr Yifan Peng, NCBI/NLM/NIH (co-instructor) - yifan dot peng at nih dot org
->>>>>>> patch-1
 * Dr Martin Skarzynski (co-instructor) - marskar at gmail dot com
 
 
@@ -48,11 +43,7 @@ information from free-text records.
 
 This class aims at introducing fundamental applications in text mining such as
 named entity recognition (NER), relation extraction, passage retrieval and document classification.
-<<<<<<< HEAD
 The class is oriented towards hands-on experience with Python, popular text mining packages such as NLTK and spaCy, and popular machine learning packages such as scikit-learn.
-=======
-The class is oriented towards hands-on experience with Python, popular text mining packages such as NLTK and spaCy, and popular machine learning packages such as [scikit-learn](scikit-learn).
->>>>>>> patch-1
 
 Learning Objectives
 -------------------
@@ -72,11 +63,7 @@ Prior exposure to programming and Python is highly recommended, but not required
 Logistics
 ---------
 
-<<<<<<< HEAD
-This is a one-semester course starting on the February 6th, 2020 and finishing on May 7th, 2020.
-=======
 This is a one-semester course starting on February 6th, 2020 and finishing on May 7th, 2020.
->>>>>>> patch-1
 
 **Class Location: B1C206, Building 10, NIH Bethesda campus**
 
@@ -84,11 +71,7 @@ Attendance in class is strongly recommended; however, we realize other commitmen
 
 Important FAES Fall 2020 semester dates:
 * January 31: online registration deadline 
-<<<<<<< HEAD
 * February 14: late registration deadline ($10 late fee per course applies)
-=======
-* February 14: late registration deadline (10 dollars late fee per course applies)
->>>>>>> patch-1
 * February 6: classes begin
 * May 7: classes end
 
@@ -124,11 +107,7 @@ This will take about 35 hours in total to complete. Note that you could also do 
 
 2. Text mining on real-world datasets
 
-<<<<<<< HEAD
     By the end of the semester, you must also develop a text mining application on real-world datasets. You will (1) submit the codes and models to a [GitHub](https://github.com] repository, (2) write up a report to describe the method, and (3) present in the final week. More details will be released in Week 3. 
-=======
-    By the end of the semester, you must also develop a text mining application on real-world datasets. You will (1) submit the codes and models to a GitHub repository, (2) write up a report to describe the method, and (3) present in the final week. More details will be released in Week 3. 
->>>>>>> patch-1
 
 
 Required Materials
