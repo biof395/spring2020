@@ -52,7 +52,7 @@ By the end of this course you should be able to:
 1. Understand fundamental building blocks of text mining
 2. Understand fundamental building blocks of machine learning regarding text mining applications 
 3. Develop Python functions for text processing
-4. Build fundamental text mining applications (hands-on experience with Python, NLTK, spaCy and scikit-learn)
+4. Build fundamental text mining applications (hands-on experience with Python, [NLTK](https://www.nltk.org/), [spaCy](https://spacy.io/) and [scikit-learn](https://scikit-learn.org/stable/))
 
 
 Prerequisites
