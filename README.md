@@ -3,7 +3,7 @@
 
 **Spring 2020**
 
-**Time: Thursday 6:30PM - 8:30PM**
+**Time: Thursday 6:00PM - 8:00PM**
 
 **Class Location: B1C206, Building 10, NIH Bethesda campus**
 
