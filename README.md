@@ -23,13 +23,9 @@ Additionally, the [Jupyter Notebooks (`ipynb` files)](https://jupyterlab.readthe
 Instructors
 -----------
 
-* Dr Qingyu Chen, NCBI/NLM/NIH (lead instructor) - qingyu dot chen at nih dot org
-* Dr Yifan Peng, NCBI/NLM/NIH (co-instructor) - yifan dot peng at nih dot org
+* Dr Qingyu Chen, NCBI/NLM/NIH (lead instructor) - qingyu.qc at gmail dot com
+* Dr Yifan Peng, NCBI/NLM/NIH (co-instructor) - pengyifan.mail at gmail dot com
 * Dr Martin Skarzynski (co-instructor) - marskar at gmail dot com
-
-
-
-
 
 Course description
 ------------------
