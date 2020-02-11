@@ -25,8 +25,8 @@ Additionally, the [Jupyter Notebooks (`ipynb` files)](https://jupyterlab.readthe
 Instructors
 -----------
 
-* Dr Qingyu Chen, NCBI/NLM/NIH (lead instructor) - qingyu dot chen at nih dot org
-* Dr Yifan Peng, NCBI/NLM/NIH (co-instructor) - yifan dot peng at nih dot org
+* Dr Qingyu Chen, NCBI/NLM/NIH (lead instructor) - qingyu dot chen at nih dot gov
+* Dr Yifan Peng, NCBI/NLM/NIH (co-instructor) - yifan dot peng at nih dot gov
 * Dr Martin Skarzynski (co-instructor) - marskar at gmail dot com
 
 Office Hours
@@ -36,7 +36,7 @@ Office Hours
 course policies, course material, and anything else. I will do my very best to make myself
 available to you via email and via the course Canvas site. However, if you feel that you are not
 getting adequate feedback, or if you are uncertain about any aspect of the course or my
-expectations, please contact me (qingyu dot chen at nih dot org) ASAP.
+expectations, please contact me (qingyu dot chen at nih dot gov) ASAP.
 
 Course Information
 ------------------
