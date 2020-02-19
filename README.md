@@ -240,8 +240,8 @@ Weekly Schedule
 |----|------------|----------------------------------------------|-------------------|
 | 1  | 2020-02-06 | Course Intro and Python crash course part I  | All Instructors   |
 | 2  | 2020-02-13 | Python crash course part II                  | Martin & Qingyu   |
-| 3  | 2020-02-20 | Python revision, text processing pipeline, and project intro | Qingyu|
-| 4  | 2020-02-27 | Regular expressions | Yifan             |
+| 3  | 2020-02-20 | Python revision, text processing I, and project intro | Qingyu|
+| 4  | 2020-02-27 | Text processing II | Yifan             |
 | 5  | 2020-03-05 | Intro to machine learning              | Qingyu            |
 | 6  | 2020-03-12 | Text mining applications I: classification           | Yifan             |
 | 7  | 2020-03-19 | Text mining applications II: sequence labelling | Yifan    |
