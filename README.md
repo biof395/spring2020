@@ -206,32 +206,15 @@ Grading Policies
 --------
 The assessment focuses on (1) practicing python and machine learning skills and (2) hands-on experience of text mining on real-world datasets. Details are as follows.
 
-1. Python and machine learning skills (50%)
+1. Python and machine learning skills (pass or fail)
 
-    By the end of the semester, you must complete [Python Programming Skill Track](https://www.datacamp.com/tracks/python-programming) and [Machine Learning Fundamentals with Python Skill Track](https://www.datacamp.com/tracks/machine-learning-fundamentals-with-python). 
-This will take about 35 hours in total to complete. Note that you could also do other tracks if you are interested, but they are optional. **Please start the tracks as soon as possible and work towards the certificate(s) throughout the semester. This may require substantial work! Do not wait until the end of the semester!**
+     By the end of the semester, you must complete [Python Programming Skill Track](https://www.datacamp.com/tracks/python-programming, [Machine Learning Fundamentals with Python Skill Track](https://www.datacamp.com/tracks/machine-learning-fundamentals-with-python), and [Data Visualization with Python Skill Track](https://learn.datacamp.com/skill-tracks/data-visualization-with-python). 
+This will take about 55 hours in total to complete. Note that you could also do other tracks if you are interested, but they are optional. **Please start the tracks as soon as possible and work towards the certificate(s) throughout the semester. This may require substantial work! Do not wait until the end of the semester!**
 
-2. Text mining on real-world datasets (50%)
+2. Text mining on real-world datasets (optional)
 
     By the end of the semester, you must also develop a text mining application on real-world datasets. You will (1) submit the codes to a [GitHub](https://github.com] repository, (2) write up a report to describe the method, and (3) present in the final week. More details will be released in Week 3. 
 
-Grading Scales
---------------
-
-| Grade | Score |   
-|----|------------|
-| A+  | 97-100 | 
-| A  | 94-96 | 
-| A-  | 90-93 | 
-| B+  | 87-89| 
-| B  | 84-86 | 
-| B-  | 80-83 | 
-| C  | 70-79 | 
-| D  | 60-69 | 
-| F  | 59 and below|
-
-Please refer to the academic catalog and program website for additional policies on grading and degree
-requirements.
 
 Weekly Schedule
 --------
