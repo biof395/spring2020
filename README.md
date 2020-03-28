@@ -208,7 +208,7 @@ The assessment focuses on (1) practicing python and machine learning skills and 
 
 1. Python and machine learning skills (pass or fail)
 
-     By the end of the semester, you must complete [Python Programming Skill Track](https://www.datacamp.com/tracks/python-programming, [Machine Learning Fundamentals with Python Skill Track](https://www.datacamp.com/tracks/machine-learning-fundamentals-with-python), and [Data Visualization with Python Skill Track](https://learn.datacamp.com/skill-tracks/data-visualization-with-python). 
+     By the end of the semester, you must complete [Python Programming Skill Track](https://www.datacamp.com/tracks/python-programming), [Machine Learning Fundamentals with Python Skill Track](https://www.datacamp.com/tracks/machine-learning-fundamentals-with-python), and [Data Visualization with Python Skill Track](https://learn.datacamp.com/skill-tracks/data-visualization-with-python). 
 This will take about 55 hours in total to complete. Note that you could also do other tracks if you are interested, but they are optional. **Please start the tracks as soon as possible and work towards the certificate(s) throughout the semester. This may require substantial work! Do not wait until the end of the semester!**
 
 2. Text mining on real-world datasets (optional)
