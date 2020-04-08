@@ -221,7 +221,7 @@ Weekly Schedule
 --------
 
 | #  | Date       | Topic                                        | Lead              |
-|----|------------|----------------------------------------------|-------------------|
+|----|-------------|----------------------------------------------|-------------------|
 | 1  | 2020-02-06 | Course Intro and Python crash course part I  | All Instructors   |
 | 2  | 2020-02-13 | Python crash course part II                  | Martin & Qingyu   |
 | 3  | 2020-02-20 | Python revision, text processing I, and project intro | Qingyu|
