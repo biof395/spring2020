@@ -233,5 +233,6 @@ Weekly Schedule
 | 9  | 2020-04-23 | Intro to deep learning                | Qingyu            |
 | 11 | 2020-04-30 | Deep learning on text mining I               | Yifan             |
 | 12 | 2020-005-07 | Deep learning on text mining II & Course summary | Qingyu & Yifan|
+
 Note that the classes from 2020-03-12 to 2020-03-26 were cancelled due to the covid-19 outbreak.
 
