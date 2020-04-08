@@ -206,14 +206,15 @@ Grading Policies
 --------
 The assessment focuses on (1) practicing python and machine learning skills and (2) hands-on experience of text mining on real-world datasets. Details are as follows.
 
-1. Python and machine learning skills (pass or fail)
+1. Python and machine learning skills (pass or fail). Due 11:59pm, May 8th.
 
      By the end of the semester, you must complete [Python Programming Skill Track](https://www.datacamp.com/tracks/python-programming), [Machine Learning Fundamentals with Python Skill Track](https://www.datacamp.com/tracks/machine-learning-fundamentals-with-python), and [Data Visualization with Python Skill Track](https://learn.datacamp.com/skill-tracks/data-visualization-with-python). 
 This will take about 55 hours in total to complete. Note that you could also do other tracks if you are interested, but they are optional. **Please start the tracks as soon as possible and work towards the certificate(s) throughout the semester. This may require substantial work! Do not wait until the end of the semester!**
 
-2. Text mining on real-world datasets (optional)
+2. Text mining on real-world datasets (optional). Due 11:59pm, May 8th.
 
     By the end of the semester, you must also develop a text mining application on real-world datasets. You will (1) submit the codes to a [GitHub](https://github.com] repository, (2) write up a report to describe the method, and (3) present in the final week. More details will be released in Week 3. 
+
 
 
 Weekly Schedule
@@ -226,14 +227,11 @@ Weekly Schedule
 | 3  | 2020-02-20 | Python revision, text processing I, and project intro | Qingyu|
 | 4  | 2020-02-27 | Text processing II | Yifan             |
 | 5  | 2020-03-05 | Intro to machine learning              | Qingyu & Kyubum (guest instructor)           |
-| 6  | 2020-03-12 | Text mining applications I: classification           | Yifan             |
-| 7  | 2020-03-19 | Text mining applications II: sequence labelling | Yifan    |
-| 8  | 2020-03-26 | Text mining applications III: text retrieval | Qingyu|
-| 9  | 2020-04-02 | Mid-term revision and early project feedback | Qingyu & Yifan    |
-| 10 | 2020-04-09 | Intro to deep learning                | Qingyu            |
-| 11 | 2020-04-16 | Deep learning on text mining I               | Yifan             |
-| 12 | 2020-04-23 | Deep learning on text mining II  | Qingyu & Yifan|
-| 13 | 2020-04-30 | Requested Topics/review/final project feedback | Qingyu & Yifan    |
-| 14 | 2020-05-07 | Student Presentations                        |                   |
-
+| 6*  | 2020-04-02 | Text mining applications I: classification           | Yifan             |
+| 7  | 2020-04-09 | Text mining applications II: sequence labelling | Yifan    |
+| 8  | 2020-04-16 | Text mining applications III: text retrieval & Machine learning revision | Qingyu|
+| 9  | 2020-04-23 | Intro to deep learning                | Qingyu            |
+| 11 | 2020-04-30 | Deep learning on text mining I               | Yifan             |
+| 12 | 2020-005-07 | Deep learning on text mining II & Course summary | Qingyu & Yifan|
+*The classes from 2020-03-12 to 2020-03-26 were cancelled due to the covid-19 outbreak.
 
