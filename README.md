@@ -227,11 +227,11 @@ Weekly Schedule
 | 3  | 2020-02-20 | Python revision, text processing I, and project intro | Qingyu|
 | 4  | 2020-02-27 | Text processing II | Yifan             |
 | 5  | 2020-03-05 | Intro to machine learning              | Qingyu & Kyubum (guest instructor)           |
-| 6*  | 2020-04-02 | Text mining applications I: classification           | Yifan             |
+| 6  | 2020-04-02 | Text mining applications I: classification           | Yifan             |
 | 7  | 2020-04-09 | Text mining applications II: sequence labelling | Yifan    |
 | 8  | 2020-04-16 | Text mining applications III: text retrieval & Machine learning revision | Qingyu|
 | 9  | 2020-04-23 | Intro to deep learning                | Qingyu            |
 | 11 | 2020-04-30 | Deep learning on text mining I               | Yifan             |
 | 12 | 2020-005-07 | Deep learning on text mining II & Course summary | Qingyu & Yifan|
-*The classes from 2020-03-12 to 2020-03-26 were cancelled due to the covid-19 outbreak.
+Note that the classes from 2020-03-12 to 2020-03-26 were cancelled due to the covid-19 outbreak.
 
