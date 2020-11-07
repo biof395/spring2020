@@ -25,8 +25,13 @@ Additionally, the [Jupyter Notebooks (`ipynb` files)](https://jupyterlab.readthe
 Instructors
 -----------
 
+<<<<<<< HEAD
 * Dr Qingyu Chen, NCBI/NLM/NIH (lead instructor) - qingyu.qc at gmail dot com
 * Dr Yifan Peng, NCBI/NLM/NIH (co-instructor) - pengyifan.mail at gmail dot com
+=======
+* Dr Qingyu Chen, NCBI/NLM/NIH (lead instructor) - qingyu dot chen at nih dot gov
+* Dr Yifan Peng, NCBI/NLM/NIH (co-instructor) - yifan dot peng at nih dot gov
+>>>>>>> 70d613960bd798339b45f21bd1f9290cdcb975ca
 * Dr Martin Skarzynski (co-instructor) - marskar at gmail dot com
 
 Office Hours
@@ -36,7 +41,7 @@ Office Hours
 course policies, course material, and anything else. I will do my very best to make myself
 available to you via email and via the course Canvas site. However, if you feel that you are not
 getting adequate feedback, or if you are uncertain about any aspect of the course or my
-expectations, please contact me (qingyu dot chen at nih dot org) ASAP.
+expectations, please contact me (qingyu dot chen at nih dot gov) ASAP.
 
 Course Information
 ------------------
@@ -206,51 +211,33 @@ Grading Policies
 --------
 The assessment focuses on (1) practicing python and machine learning skills and (2) hands-on experience of text mining on real-world datasets. Details are as follows.
 
-1. Python and machine learning skills (50%)
+1. Python and machine learning skills (pass or fail). Due 11:59pm, May 8th.
 
-    By the end of the semester, you must complete [Python Programming Skill Track](https://www.datacamp.com/tracks/python-programming) and [Machine Learning Fundamentals with Python Skill Track](https://www.datacamp.com/tracks/machine-learning-fundamentals-with-python). 
-This will take about 35 hours in total to complete. Note that you could also do other tracks if you are interested, but they are optional. **Please start the tracks as soon as possible and work towards the certificate(s) throughout the semester. This may require substantial work! Do not wait until the end of the semester!**
+     By the end of the semester, you must complete [Python Programming Skill Track](https://www.datacamp.com/tracks/python-programming), [Machine Learning Fundamentals with Python Skill Track](https://www.datacamp.com/tracks/machine-learning-fundamentals-with-python), and [Data Visualization with Python Skill Track](https://learn.datacamp.com/skill-tracks/data-visualization-with-python). 
+This will take about 55 hours in total to complete. Note that you could also do other tracks if you are interested, but they are optional. **Please start the tracks as soon as possible and work towards the certificate(s) throughout the semester. This may require substantial work! Do not wait until the end of the semester!**
 
-2. Text mining on real-world datasets (50%)
+2. Text mining on real-world datasets (optional). Due 11:59pm, May 8th.
 
     By the end of the semester, you must also develop a text mining application on real-world datasets. You will (1) submit the codes to a [GitHub](https://github.com] repository, (2) write up a report to describe the method, and (3) present in the final week. More details will be released in Week 3. 
 
-Grading Scales
---------------
 
-| Grade | Score |   
-|----|------------|
-| A+  | 97-100 | 
-| A  | 94-96 | 
-| A-  | 90-93 | 
-| B+  | 87-89| 
-| B  | 84-86 | 
-| B-  | 80-83 | 
-| C  | 70-79 | 
-| D  | 60-69 | 
-| F  | 59 and below|
-
-Please refer to the academic catalog and program website for additional policies on grading and degree
-requirements.
 
 Weekly Schedule
 --------
 
 | #  | Date       | Topic                                        | Lead              |
-|----|------------|----------------------------------------------|-------------------|
+|----|-------------|----------------------------------------------|-------------------|
 | 1  | 2020-02-06 | Course Intro and Python crash course part I  | All Instructors   |
 | 2  | 2020-02-13 | Python crash course part II                  | Martin & Qingyu   |
-| 3  | 2020-02-20 | Python revision, text processing pipeline, and project intro | Qingyu|
-| 4  | 2020-02-27 | Regular expressions, parsing and pos tagging | Yifan             |
-| 5  | 2020-03-05 | Machine learning on text part I              | Qingyu            |
-| 6  | 2020-03-12 | Machine learning on text part II             | Yifan             |
-| 7  | 2020-03-19 | Text mining applications: NER and relation extraction | Yifan    |
-| 8  | 2020-03-26 | Text mining applications: sentence similarity and document classification | Qingyu|
-| 9  | 2020-04-02 | Mid-term revision and early project feedback | Qingyu & Yifan    |
-| 10 | 2020-04-09 | Deep learning on text part I                 | Qingyu            |
-| 11 | 2020-04-16 | Deep learning on text part II                | Yifan             |
-| 12 | 2020-04-23 | Text mining applications: other applications and project feedback  | Qingyu & Yifan|
-| 13 | 2020-04-30 | Requested Topics/review/final project feedback | Qingyu & Yifan    |
-| 14 | 2020-05-07 | Student Presentations                        |                   |
+| 3  | 2020-02-20 | Python revision, text processing I, and project intro | Qingyu|
+| 4  | 2020-02-27 | Text processing II | Yifan             |
+| 5  | 2020-03-05 | Intro to machine learning              | Qingyu & Kyubum (guest instructor)           |
+| 6  | 2020-04-02 | Text mining applications I: classification           | Yifan             |
+| 7  | 2020-04-09 | Text mining applications II: sequence labelling | Yifan    |
+| 8  | 2020-04-16 | Text mining applications III: text retrieval & Machine learning revision | Qingyu|
+| 9  | 2020-04-23 | Intro to deep learning                | Qingyu            |
+| 11 | 2020-04-30 | Deep learning on text mining I               | Yifan             |
+| 12 | 2020-05-07 | Deep learning on text mining II & Course summary | Yifan & Qingyu|
 
+Note that the classes from 2020-03-12 to 2020-03-26 were cancelled due to the covid-19 outbreak.
 
